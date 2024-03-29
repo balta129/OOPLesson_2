@@ -1,0 +1,11 @@
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\bin\Debug\net7.0\ConsoleAppLibraryProject.deps.json
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\bin\Debug\net7.0\ConsoleAppLibraryProject.dll
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\bin\Debug\net7.0\ConsoleAppLibraryProject.pdb
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ConsoleAppLibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ConsoleAppLibraryProject.AssemblyInfoInputs.cache
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ConsoleAppLibraryProject.AssemblyInfo.cs
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ConsoleAppLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ConsoleAppLibraryProject.dll
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\refint\ConsoleAppLibraryProject.dll
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ConsoleAppLibraryProject.pdb
+C:\Users\Selo\Desktop\OOP\OOPLesson2_P2\ConsoleAppLibraryProject\obj\Debug\net7.0\ref\ConsoleAppLibraryProject.dll
